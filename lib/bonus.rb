@@ -20,7 +20,8 @@ def bonus
    }
   }
 
-  #code your solution here:
+  epic_tragedy[:Montague][:hero][:statue] = "dead"
+  
 
   
 
